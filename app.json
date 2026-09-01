@@ -8,9 +8,9 @@
     "websocketUrl":  "ws://160.191.77.60:6557/websocket",
     "campaign": [
         {
-            title: "Test Campaign",
-            image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGoIDK0017PKpmhsRbgZFUEvF7JaVrZRY8slKDbJOJ3PnjhSbpxOLPpSM&s=10",
-            description: "Test saja"
+            "title": "Test Campaign",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGoIDK0017PKpmhsRbgZFUEvF7JaVrZRY8slKDbJOJ3PnjhSbpxOLPpSM&s=10",
+            "description": "Test saja"
         }
     ]
 }
