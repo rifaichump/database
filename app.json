@@ -1,9 +1,9 @@
 {
   "version": "5.4",
   "linkUpdate": "",
-  "mcip": "animeunicraft.servegame.com",
-  "mcport": "5792",
-  "linkmc": "",
-  "serverUrl": "",
-  "websocketUrl": ""
+  "mcip": "animeunicraft.my.id",
+  "mcport": "19240",
+  "linkmc": "https://animeuniverse.vercel.app",
+  "serverUrl": "http://160.191.77.60:6557",
+  "websocketUrl": "ws://160.191.77.60:6557/websocket"
 }
