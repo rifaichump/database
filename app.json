@@ -4,7 +4,7 @@
     "mcip":  "animeunicraft.my.id",
     "mcport":  "19240",
     "linkmc":  "https://animeuniverse.vercel.app",
-    "serverUrl":  "http://160.191.77.60:6557",
-    "websocketUrl":  "ws://160.191.77.60:6557/websocket",
+    "serverUrl":  "https://server.animeuniverse.dpdns.org",
+    "websocketUrl":  "wss://server.animeuniverse.dpdns.org/websocket",
     "campaign": []
 }
