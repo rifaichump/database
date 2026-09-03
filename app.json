@@ -1,6 +1,6 @@
 {
     "version":  "5.5",
-    "linkUpdate":  "https://github.com/rifaichump/animeuniverse/releases/download/Update/AnimeUniverseGroup.apk",
+    "linkUpdate":  "https://animeuniverse.vercel.app/api/update",
     "mcip":  "animeunicraft.my.id",
     "mcport":  "19240",
     "linkmc":  "https://animeuniverse.vercel.app",
