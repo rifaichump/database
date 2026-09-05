@@ -4,6 +4,6 @@
     "mcip":  "animeunicraft.my.id",
     "mcport":  "19240",
     "linkmc":  "https://www.google.com",
-    "serverUrl":  "https://server.animeuniverse.dpdns.org",
+    "serverUrl":  "https://api.animeuniverse.dpdns.org",
     "websocketUrl":  "wss://server.animeuniverse.dpdns.org/websocket"
 }
